@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.elajih.ccycleapp"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "ccycleApp",
+    "packageName": "com.elajih.ccycleapp",
+    "packageFolder": "com/elajih/ccycleapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDVjMDkxOGU5NTg1YTJiNGIxNjQwYzJhZjMwZWU0ZTViMDY2NjQwOGJmNTA0ZjhjNTkyMGYxMTJhZjA2OGZlZGI4NTY2YWE4OTcxM2Y1NjM5ZGU1N2ZmYjM0ZjRjZDEyZjA2NjMwMDg3NTllZGE0YzBhM2EzMjE0YzZjMzJmYTI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1587681188347,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "reactive": true
+  }
+}
