@@ -1,0 +1,4 @@
+diff a/testbed/DEV.md b/testbed/DEV.md	(rejected hunks)
+@@ -92 +91 @@ INFO! Congratulations, JHipster execution is complete!
+-``` $ ls src/main/docker/
++```$ ls src/main/docker/

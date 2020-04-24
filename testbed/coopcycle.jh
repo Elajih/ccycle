@@ -5,10 +5,12 @@
 /**
  * The User entity.
  */
-entity User {
-    userId Long required
-    login String required
-    password String required
+entity UserAccount {
+    name String required
+    surname String required
+    email String required unique pattern(/^[^@\s]+@[^@\s]+\.[^@\s]+$/)
+    password String required minlength(8)
+    adress String required maxlength(300)
 } 
 
 /**

@@ -150,12 +150,11 @@ jhipster:
     title: coopcycle API
     description: coopcycle API documentation
     version: 0.0.1
-    terms-of-service-url:
-    contact-name:
-    contact-url:
-    contact-email:
-    license:
-    license-url:
+    terms-of-service-url: www.ccycleApp.com/allservices
+    contact-name: Pauline boissieux
+    contact-url: www.ccycleApp.com/contactus
+    contact-email: pauline.boi@gmail.com
+    license: 32-ACDJK-1000
 # ===================================================================
 # Application specific properties
 # Add your own application properties here, see the ApplicationProperties class
